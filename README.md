@@ -1,7 +1,7 @@
 # Netflix Landing Page Clone
 
 A responsive Netflix landing page clone built with **HTML, CSS, and JavaScript**, featuring a hero section, sign-in CTA, interactive feature tabs, subscription plan comparison, and responsive layouts.
-**Live Demo:** https://superstar-deity.github.io/netflix-clone/
+**Live Demo:** https://superstar-deity.github.io/Netflix-Landing-Page-Clone/
 
 ## Features
 
